@@ -1,0 +1,17 @@
+{
+  "name": "grocery-store",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@next/swc-win32-x64-msvc": "^16.4.0",
+    "@supabase/supabase-js": "^2.43.4",
+    "next": "14.2.3",
+    "react": "^18",
+    "react-dom": "^18"
+  }
+}
